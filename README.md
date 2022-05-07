@@ -1,1 +1,8 @@
-# 4b-projek-10-pemesanan-tiket-pesawat
+# 4b-projek-10-pemesanan-tiket-pesawat![Screenshot(1004)](https://user-images.githubusercontent.com/98938142/167269696-9d1660c0-5226-42ba-85c2-0d9594043984.jpeg)
+![Screenshot(1005)](https://user-images.githubusercontent.com/98938142/167269699-c36296f0-b98f-4d6b-adb7-c16c46217d65.jpeg)
+[UASPrakPBW.zip](https://github.com/Praktikum-PBW/4b-projek-10-pemesanan-tiket-pesawat/files/8645847/UASPrakPBW.zip)
+![Screenshot (1006)](https://user-images.githubusercontent.com/98938142/167269701-50377948-62e5-485c-b841-f0c83c51dab3.png)
+![Screenshot (1007)](https://user-images.githubusercontent.com/98938142/167269704-2b240e93-8202-49c8-b2c6-4f8bb5637a24.png)
+![Screenshot (1008)](https://user-images.githubusercontent.com/98938142/167269705-406aac50-0431-4f4e-b617-05f849d80bc2.png)
+![Screenshot (1009)](https://user-images.githubusercontent.com/98938142/167269708-5aad2947-8ca1-4ba7-95f3-e522d08e21f9.png)
+![Screenshot (1010)](https://user-images.githubusercontent.com/98938142/167269711-3c1b0763-f63f-4077-9811-22c671dfd6d8.png)
